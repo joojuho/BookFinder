@@ -11,7 +11,7 @@ import {
   Alert
 } from 'react-bootstrap';
 
-import { searchBooks } from '../services/openLibrary';
+import { searchBooks } from '../services/openlibrary';
 import BookCard from '../components/BookCard';
 
 function Search() {
