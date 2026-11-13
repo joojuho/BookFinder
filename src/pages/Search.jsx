@@ -48,9 +48,9 @@ function Search() {
 
       {/* Page heading */}
       <div className="search-heading">
-        <h1>Find your next read.</h1>
+        <h1>This cat has read dozens of books 😼</h1>
         <p>
-          Discover books, explore authors and find your next favourite.
+          Unlimited books to be discovered.
         </p>
       </div>
 
@@ -140,8 +140,8 @@ function Search() {
       {/* Initial message */}
       {!hasSearched && (
         <div className="search-placeholder text-center">
-          <h3>What would you like to read?</h3>
-          <p>Search thousands of books using Open Library.</p>
+          <h3>What would you like to read? 😺</h3>
+          <p>Search books using Open Library.</p>
         </div>
       )}
 

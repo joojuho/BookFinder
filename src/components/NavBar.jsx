@@ -11,7 +11,7 @@ function Navbar() {
     <BootstrapNavbar expand="lg" className="app-navbar">
       <Container>
         <BootstrapNavbar.Brand as={Link} to="/" className="brand">
-          <span className="brand-icon">🤑</span> BookFinder
+          <span className="brand-icon">😼</span> BookFinder
         </BootstrapNavbar.Brand>
 
         <BootstrapNavbar.Toggle aria-controls="main-navbar" />
