@@ -27,7 +27,7 @@ BookFinder is a book search application built with React that allows the user to
     git clone https://github.com/joojuho/BookFinder
 ```
 
-2. Clone the repository
+2. Select BookFinder as the root folder
 
 ```bash
     cd bookfinder
