@@ -1,4 +1,54 @@
-# React + Vite
+# BookFinder 🤑
+
+BookFinder is a book search application built with React that allows the user to search for books, view book details and save books on a personal reading list using OpenLibrary API.
+
+## Features
+    - Search books/authors
+    - View book details
+    - Add/Remove books to a list
+    - Change status of a book to keep track of progress
+    - Saving to localStorage
+
+## Technologies
+
+    - React
+    - React Router
+    - React Bootstrap
+    - Bootstrap
+    - Open Libary API
+    - React Hot Toast
+    - Vite
+
+## Installation and Setup
+
+    1. Clone the repository
+
+    ```bash
+        git clone https://github.com/joojuho/BookFinder
+    ```
+    
+    2. Clone the repository
+
+    ```bash
+        cd bookfinder
+    ```
+
+    3. Install dependencies
+
+    ```bash
+        npm install
+    ```
+
+    4. Start the server
+
+    ```bash
+        npm run dev
+    ```
+
+    5. Open the URL from the terminal, usually http://localhost:5173/
+
+
+# Default Txt
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
