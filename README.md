@@ -21,31 +21,31 @@ BookFinder is a book search application built with React that allows the user to
 
 ## Installation and Setup
 
-    1. Clone the repository
+1. Clone the repository
 
-    ```bash
-        git clone https://github.com/joojuho/BookFinder
-    ```
-    
-    2. Clone the repository
+```bash
+    git clone https://github.com/joojuho/BookFinder
+```
 
-    ```bash
-        cd bookfinder
-    ```
+2. Clone the repository
 
-    3. Install dependencies
+```bash
+    cd bookfinder
+```
 
-    ```bash
-        npm install
-    ```
+3. Install dependencies
 
-    4. Start the server
+```bash
+    npm install
+```
 
-    ```bash
-        npm run dev
-    ```
+4. Start the server
 
-    5. Open the URL from the terminal, usually http://localhost:5173/
+```bash
+    npm run dev
+```
+
+5. Open the URL from the terminal, usually http://localhost:5173/
 
 
 # Default Txt
